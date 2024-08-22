@@ -7,7 +7,7 @@
   Copy the path of deeply nested keys from JSON/YAML files.
 </p>
 
-## Installation
+# Installation
 
 With lazy.nvim:
 
@@ -17,7 +17,7 @@ With lazy.nvim:
 
 This will add the `:CopyDeepPath` command to your Neovim.
 
-## Usage
+# Usage
 
 Let's say you have a JSON file with the following structure:
 
