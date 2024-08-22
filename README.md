@@ -1,6 +1,11 @@
-# nvim-copy-deep-path
+<!-- markdownlint-disable MD033 MD041-->
+<h3 align="center">
+  nvim-copy-deep-path
+</h3>
 
-Copy the path of deeply nested keys from JSON/YAML files.
+<p align="center">
+  Copy the path of deeply nested keys from JSON/YAML files.
+</p>
 
 ## Installation
 
