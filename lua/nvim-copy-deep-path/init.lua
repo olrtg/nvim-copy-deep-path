@@ -53,7 +53,7 @@ end
 
 function M.setup(opts)
 	opts = opts or {}
-	vim.api.nvim_create_user_command("CopyJsonPath", M.copy, {})
+	vim.api.nvim_create_user_command("CopyDeepPath", M.copy, {})
 end
 
 return M
